@@ -1,0 +1,20 @@
+a=int(input(""))
+b=int(input(""))
+c=a+b
+d=a-b
+e=a*b
+print(c)
+print(d)
+print(e)
+
+Input (stdin)
+3
+2
+Your Output (stdout)
+5
+1
+6
+Expected Output
+5
+1
+6
